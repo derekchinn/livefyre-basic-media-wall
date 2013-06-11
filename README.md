@@ -1,6 +1,3 @@
-Lucky-FABB-2013-Hub
-===================
-
 You'll need NPM.
 
 Install npm and bower dependencies
